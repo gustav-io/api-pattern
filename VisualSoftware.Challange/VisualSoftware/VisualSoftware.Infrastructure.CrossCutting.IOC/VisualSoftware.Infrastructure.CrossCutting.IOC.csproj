@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.9.4" />
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VisualSoftware.Application\VisualSoftware.Application.csproj" />
+    <ProjectReference Include="..\VisualSoftware.Domain.Services\VisualSoftware.Domain.Services.csproj" />
+    <ProjectReference Include="..\VisualSoftware.Infrastructure.Repository\VisualSoftware.Infrastructure.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

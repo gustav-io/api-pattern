@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Application.DTO\\VisualSoftware.Application.DTO.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Application.DTO\\VisualSoftware.Application.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Application.DTO\\VisualSoftware.Application.DTO.csproj",
+        "projectName": "VisualSoftware.Application.DTO",
+        "projectPath": "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Application.DTO\\VisualSoftware.Application.DTO.csproj",
+        "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Application.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Domain.Core\\VisualSoftware.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Domain.Core\\VisualSoftware.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Domain.Core\\VisualSoftware.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Domain.Core\\VisualSoftware.Domain.Core.csproj",
+        "projectName": "VisualSoftware.Domain.Core",
+        "projectPath": "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Domain.Core\\VisualSoftware.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Domain\\VisualSoftware.Domain.csproj": {
+                "projectPath": "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Domain\\VisualSoftware.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Domain\\VisualSoftware.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Domain\\VisualSoftware.Domain.csproj",
+        "projectName": "VisualSoftware.Domain",
+        "projectPath": "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Domain\\VisualSoftware.Domain.csproj",
+        "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gusta\\Desktop\\VisualSoftware.Challange\\VisualSoftware\\VisualSoftware.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

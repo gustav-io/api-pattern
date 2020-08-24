@@ -1,0 +1,17 @@
+C:\Users\huffb\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\bin\Debug\netcoreapp3.1\VisualSoftware.Domain.deps.json
+C:\Users\huffb\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\bin\Debug\netcoreapp3.1\VisualSoftware.Domain.dll
+C:\Users\huffb\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\bin\Debug\netcoreapp3.1\VisualSoftware.Domain.pdb
+C:\Users\huffb\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\obj\Debug\netcoreapp3.1\VisualSoftware.Domain.AssemblyInfoInputs.cache
+C:\Users\huffb\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\obj\Debug\netcoreapp3.1\VisualSoftware.Domain.AssemblyInfo.cs
+C:\Users\huffb\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\obj\Debug\netcoreapp3.1\VisualSoftware.Domain.dll
+C:\Users\huffb\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\obj\Debug\netcoreapp3.1\VisualSoftware.Domain.pdb
+C:\Users\huffb\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\obj\Debug\netcoreapp3.1\VisualSoftware.Domain.csprojAssemblyReference.cache
+C:\Users\gusta\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\bin\Debug\netcoreapp3.1\VisualSoftware.Domain.deps.json
+C:\Users\gusta\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\bin\Debug\netcoreapp3.1\VisualSoftware.Domain.dll
+C:\Users\gusta\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\bin\Debug\netcoreapp3.1\VisualSoftware.Domain.pdb
+C:\Users\gusta\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\obj\Debug\netcoreapp3.1\VisualSoftware.Domain.csprojAssemblyReference.cache
+C:\Users\gusta\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\obj\Debug\netcoreapp3.1\VisualSoftware.Domain.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\obj\Debug\netcoreapp3.1\VisualSoftware.Domain.AssemblyInfo.cs
+C:\Users\gusta\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\obj\Debug\netcoreapp3.1\VisualSoftware.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\obj\Debug\netcoreapp3.1\VisualSoftware.Domain.dll
+C:\Users\gusta\Desktop\VisualSoftware.Challange\VisualSoftware\VisualSoftware.Domain\obj\Debug\netcoreapp3.1\VisualSoftware.Domain.pdb
